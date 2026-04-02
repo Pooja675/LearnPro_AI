@@ -22,7 +22,7 @@ const errorHandler = (err, req, res, next) => {
         message: normalizedError.message,
         code: normalizedError.code,
         http_code: normalizedError.http_code,
-        stack: process.env.NODE_ENV === "development" 
+        stack: process.env.NODE_ENV === "production" 
             ? normalizedError.stack 
             : undefined,
     })
