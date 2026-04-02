@@ -1,6 +1,6 @@
 export const BASE_URL =
    import.meta.env.MODE === "development"
-    ? import.meta.env.VITE_SERVER_URL || "http://localhost:5555"
+    ? import.meta.env.VITE_SERVER_URL || "http://localhost:5000"
     : window.location.origin;
 
 export const API_PATHS = {

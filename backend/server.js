@@ -58,7 +58,7 @@ if (process.env.NODE_ENV === "production") {
 }
 
 // ✅ Catch-all: send React app for any non-API route
-app.get(/.*/, (req, res) => {
+app.get('*', (req, res) => {
     res.sendFile(path.resolve(__dirname, "../frontend/dist", "index.html"));
 });
 
