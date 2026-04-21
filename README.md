@@ -1,7 +1,7 @@
 # 🎓 LearnPro AI
 
 > A full-stack AI-powered learning platform built with the MERN stack and Tailwind CSS — helping students learn smarter through contextual AI chat, auto-generated flashcards, quizzes, and real-time progress tracking.
-
+----
 <img width="1920" height="882" alt="dashboardLearn" src="https://github.com/user-attachments/assets/627a9094-0e43-43f5-8eb5-b205b8b3c9e4" />
 <img width="1920" height="876" alt="documentLearn" src="https://github.com/user-attachments/assets/d0c357b5-5426-433c-a51f-fcd512117f81" />
 <img width="1920" height="896" alt="chatLearn" src="https://github.com/user-attachments/assets/92daafae-1f2c-4124-a113-a597e655253b" />
