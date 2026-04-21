@@ -2,9 +2,12 @@
 
 > A full-stack AI-powered learning platform built with the MERN stack and Tailwind CSS — helping students learn smarter through contextual AI chat, auto-generated flashcards, quizzes, and real-time progress tracking.
 
-![LearnPro AI](https://img.shields.io/badge/LearnPro-AI%20Powered-6366f1?style=for-the-badge&logoColor=white)
-![MERN Stack](https://img.shields.io/badge/Stack-MERN-20c997?style=for-the-badge)
-
+<img width="1920" height="882" alt="dashboardLearn" src="https://github.com/user-attachments/assets/627a9094-0e43-43f5-8eb5-b205b8b3c9e4" />
+<img width="1920" height="876" alt="documentLearn" src="https://github.com/user-attachments/assets/d0c357b5-5426-433c-a51f-fcd512117f81" />
+<img width="1920" height="896" alt="chatLearn" src="https://github.com/user-attachments/assets/92daafae-1f2c-4124-a113-a597e655253b" />
+<img width="1920" height="877" alt="SummaryLearn" src="https://github.com/user-attachments/assets/9d880c38-aef2-4a94-b8da-a1046fab90ca" />
+<img width="1919" height="883" alt="flashcardLearn" src="https://github.com/user-attachments/assets/4a8a7925-b5bc-4cbb-bc81-da52d2ac5c28" />
+<img width="1920" height="886" alt="quizzesLearn" src="https://github.com/user-attachments/assets/0593e835-28b6-476d-a885-62203ede6486" />
 
 ---
 
