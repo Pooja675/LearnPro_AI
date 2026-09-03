@@ -28,7 +28,7 @@
 
 ## 🚀 Overview
 
-**LearnPro AI** is a full-stack learning platform that lets students upload PDF documents and instantly unlock AI-powered study tools — contextual chat, automatic summaries, concept explanations, flashcard generation, and quizzes — all powered by **Google Gemini API** (`gemini-2.5-flash-lite`).
+**LearnPro AI** is a full-stack learning platform that lets students upload PDF documents and instantly unlock AI-powered study tools — contextual chat, automatic summaries, concept explanations, flashcard generation, and quizzes — all powered by **Google Gemini API** (`gemini-3.5-flash-lite`).
 
 PDFs are stored on **Cloudinary** (up to 10MB), processed server-side via `pdf-parse` to extract text, which is then chunked and scored for relevance before being passed to Gemini for intelligent responses.
 
@@ -371,7 +371,7 @@ Authorization: Bearer <jwt_token>
 │                      │  │                                  │
 │  Users               │  │  Cloudinary  (PDF raw storage)   │
 │  Documents + Chunks  │  │  Google Gemini API               │
-│  Flashcards          │  │    gemini-2.5-flash-lite         │
+│  Flashcards          │  │    gemini-3.5-flash-lite         │
 │  Quizzes             │  │  pdf-parse   (text extraction)   │
 │  ChatHistory         │  │                                  │
 └──────────────────────┘  └──────────────────────────────────┘
